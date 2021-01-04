@@ -10,7 +10,7 @@ This assignment represent: receiving raw data from vehicles, transform it, and s
 ## Getting Started
 First of all, fork the repository at:
 
-`https://github.com/Extramarks--Data-Engineer-Assignment.git`
+`https://github.com/deepdwivedi/Extramarks--Data-Engineer-Assignment`
 
 Then open up your terminal and clone the forked repository
 
